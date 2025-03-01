@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Dick",
+        "age": 25,
+        "email": "richard@dogle.com"
+    },
+    {
+        "name": "Barbra",
+        "age": 25,
+        "email": "babs@gtu.edu",
+        "student_id": "019827163"
+    }
+]
